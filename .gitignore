@@ -72,3 +72,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+# React Native Stack Base
+
+.expo
+__generated__
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#ReactNative
